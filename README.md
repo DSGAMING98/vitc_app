@@ -60,6 +60,6 @@ vitc_app/
 ├─ data/
 │  └─ sample_foods.csv
 ├─ assets/
-│  └─ logo.png          (optional)
+│  └─ logo.png          
 └─ tests/
-   └─ test_calculator.py (optional)
+   └─ test_calculator.py 
